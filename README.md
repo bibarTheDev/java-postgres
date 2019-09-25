@@ -33,7 +33,7 @@ Boolean resultado = noReturnQuery(sql);
 
 Para executar querys com retorno
 ```java
-String sql = "SELECT * FROM usuarop";
+String sql = "SELECT * FROM usuario";
 ArrayList< ArrayList<String> > resposta;
 respsota = selectQuery(sql);  
 ```
