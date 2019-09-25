@@ -26,13 +26,13 @@ Banco db = new Banco("<host>", "<porta>", "<usuario>", "<senha>", "<database>", 
 ```
 
 Para executar querys sem retorno
-```
+```java
 String sql = "INSERT INTO usuario VALUES ('bibar', 'SenhaSecretaNaoContaSHHHHHHH')";
 Boolean resultado = noReturnQuery(sql);
 ```
 
 Para executar querys com retorno
-```
+```java
 String sql = "SELECT * FROM usuarop";
 ArrayList< ArrayList<String> > resposta;
 respsota = selectQuery(sql);  
