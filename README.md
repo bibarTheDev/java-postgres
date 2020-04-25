@@ -40,4 +40,4 @@ respsota = selectQuery(sql);
 
 ### ye
 Feito por um aluno cansado de fazer métodos específicos pra cada query
-twitter: @bibaromito (eu praticamente so reclamo e retweeto meme aqui, mas eventualmente tem coisa que vale a pena juro)
+twitter: @bibaronceagain (eu praticamente so reclamo e retweeto meme aqui, mas eventualmente tem coisa que vale a pena juro)
